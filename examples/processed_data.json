@@ -1,0 +1,13 @@
+{
+    "id": "12345",
+    "name": "Sample ima data entry",
+    "metadata": {
+        "source": "api",
+        "timestamp": "2026-04-01T14:00:00Z"
+    },
+    "payload": {
+        "value": 42,
+        "description": "Example content to process."
+    },
+    "status": "processed_by_ima_skill"
+}

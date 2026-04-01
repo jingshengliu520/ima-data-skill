@@ -1,0 +1,7 @@
+# Core data processing libraries for 'ima' data representation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# For network requests to external APIs
+requests>=2.31.0
+urllib3>=2.0.0

@@ -15,7 +15,7 @@ When asked to process ima data, you should use the provided Python scripts in th
 1. Ensure the Python environment has the necessary dependencies installed (`pip install -r requirements.txt`).
 2. Run the main processing script using the `run_command` tool:
    ```bash
-   python3 scripts/main.py --input <path_to_input_data> --output <path_to_output_file>
+   python3 skills/ima-data-skill/scripts/main.py --input <path_to_input_data> --output <path_to_output_file>
    ```
 
 ### Notes
